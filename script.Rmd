@@ -20,9 +20,10 @@ BiocManager::install("CATALYST")
 
 install.packages("svglite")
 
-# Načtení potřebných knihoven
+# Načtení všech potřebných knihoven
 
 ```{r setup, include=FALSE}
+
 knitr::opts_chunk$set(echo = TRUE)
 
 library(flowCore)
