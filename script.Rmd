@@ -10,6 +10,8 @@ output:
     theme: flatly
 ---
 
+### Komplikace při knitování 
+
 BiocManager::install("flowCore")
 
 BiocManager::install("flowGate")
